@@ -1,0 +1,5 @@
+function enviarMsg(){
+let msg ="Bom Dia!";
+document.querySelector("#saida").textContent = msg
+}
+
